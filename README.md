@@ -5,4 +5,4 @@
 
 <img align="left" alt="Cladnic's Github Statis" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cladnic" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cladnic)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cladnic)](https://github.com/Cladnic/github-readme-stats)

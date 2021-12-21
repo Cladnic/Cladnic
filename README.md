@@ -1,5 +1,5 @@
 # Cladnic
-👋Hi Cladnic here, Computer Engineering student.
+👋Hi Cladnic here, Software Developer.
 
 Repositories can sometimes be messy to look through and make it hard to find what you are looking for. To get a better overview of what kinds of projects I have been invloved in please have a look at https://cladnic.github.io/ (not ready yet btw).
 

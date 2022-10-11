@@ -1,5 +1,5 @@
 # Cladnic
-👋Hi Cladnic here, Software Developer.
+👋Yo
 
 To see my mentionable projects it might be easier to just view them here: https://cladnic.github.io/projects.html
 

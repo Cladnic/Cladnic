@@ -4,7 +4,7 @@
 
 ---
 
-<p align="center"><strong><sub>Projects:</sub></strong></p>
+<p align="center"><strong>Projects:</strong></p>
 <div align="center"><a href="https://cladnic.github.io/projects.html"><code>https://cladnic.github.io/projects.html</code></a></div>
 </br>
 

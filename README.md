@@ -1,6 +1,7 @@
 <h3 align="center">Cladnic</h3>
 <div align="center"><code>programmer. gamedev-hobbyist. coffee addict. cyber-security-fancier.</code></div>
 <p align="center"><sub>Always Aspiring To Learn More</sub></p>
+<p align="center"><strong><sub>Projects:</sub></strong></p>
 <div align="center"><a href="https://cladnic.github.io/projects.html"><code>https://cladnic.github.io/projects.html</code></a></div>
 
 ---

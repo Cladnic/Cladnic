@@ -1,6 +1,8 @@
 <h3 align="center">Cladnic</h3>
 <div align="center"><code>programmer. gamedev-hobbyist. coffee addict. cyber-security-fancier.</code></div>
 <p align="center"><sub>Always Aspiring To Learn More</sub></p>
+<p align="center">☕</p>
+
 
 ---
 
